@@ -1,0 +1,21 @@
+*.pdf
+
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+**/*.log.gz
+/.mixin.out
+/saves
+/journeymap
+/screenshots
+/downloads
+/resourcepacks
+/crash-reports
+.curseclient
+options.txt
