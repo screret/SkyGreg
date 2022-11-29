@@ -21,3 +21,7 @@
 /crash-reports
 .curseclient
 options.txt
+
+minecraftinstance.json
+usernamecache.json
+usercache.json
