@@ -25,3 +25,5 @@ options.txt
 minecraftinstance.json
 usernamecache.json
 usercache.json
+local/ftbutilities/players.txt
+local/ftbutilities/backups.json
