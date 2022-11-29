@@ -11,6 +11,8 @@
 **/*.log
 **/*.log.gz
 /.mixin.out
+/TombManyGraves
+/backups
 /saves
 /journeymap
 /screenshots

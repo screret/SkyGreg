@@ -1,1 +1,16 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "deepmoblearning:book": {
+      "viewedEntries": [
+        "deepmoblearning:0_introduction/0_introduction"
+      ],
+      "bookmarks": [],
+      "history": [
+        "deepmoblearning:0_introduction/0_introduction"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
