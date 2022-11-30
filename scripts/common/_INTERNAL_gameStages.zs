@@ -15,3 +15,8 @@ var stage_uv = ZenStager.initStage("UV");
 var stage_max = ZenStager.initStage("MAX");
 
 var stage_dml = ZenStager.initStage("DML");
+var stage_lcr = ZenStager.initStage("LCR");
+var stage_oil = ZenStager.initStage("OIL");
+var stage_miner = ZenStager.initStage("MINER");
+var stage_hell = ZenStager.initStage("HELL");
+var stage_rocket = ZenStager.initStage("ROCKET");
